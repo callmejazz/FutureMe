@@ -14,8 +14,6 @@
             android:layout_marginLeft="320dp"
             android:layout_marginTop="5dp"/>
 
-            <!--android:layout_marginTop="3dp" android:layout_marginLeft="260dp" android:layout_marginStart="245dp"
-            android:layout_marginRight="2dp" android:layout_marginEnd="245dp"-->
     <androidx.appcompat.widget.Toolbar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -25,12 +23,31 @@
     <ImageView
             android:layout_width="195dp"
             android:layout_height="252dp" app:srcCompat="@drawable/stars" android:id="@+id/imageView"
-            android:layout_marginTop="150dp"
-            android:layout_marginLeft="25dp"/>
+            android:layout_marginTop="215dp"
+            android:layout_centerHorizontal="true"/>
     <Spinner
+            android:layout_width="35dp"
+            android:layout_height="35dp" android:id="@+id/spinner"
+            android:layout_marginTop="10dp" android:background="@android:drawable/ic_menu_sort_by_size"
+            android:layout_marginLeft="10dp"/>
+    <SearchView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" android:id="@+id/spinner"
-            android:layout_marginTop="100dp"/>
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toolbar" android:id="@+id/search_bar"
+            android:queryHint="What's your dream career?"/>
+    <TextView
+            android:text="No matter your age, it's never too late to find your dream career. With FutureMe, you can find information on your aspired career path and see if it's right for you. The FutureYou."
+            android:layout_width="358dp"
+            android:layout_height="75dp" android:id="@+id/about"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="115dp"/>
+    <Button
+            android:text="Undecided? Take our quiz!"
+            android:textColor="#FFFFFF"
+            android:layout_width="387dp"
+            android:layout_height="82dp" android:id="@+id/quiz"
+            android:layout_marginTop="500dp" android:layout_centerHorizontal="true"
+            style="@style/Widget.AppCompat.Button" android:background="@color/colorPrimary"/>
 
 
 </RelativeLayout>

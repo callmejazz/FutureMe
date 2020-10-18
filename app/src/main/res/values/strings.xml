@@ -2,4 +2,14 @@
     <string name="app_name">FutureMe</string>
     <string name="name">name:</string>
     <string name="password">password:</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string-array name="drop_down">
+        <item>Astronomer</item>
+        <item>Botanist</item>
+        <item>Engineer</item>
+        <item>Mathematician</item>
+        <item>Programmer</item>
+    </string-array>
+
 </resources>
