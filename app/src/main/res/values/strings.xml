@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">FutureMe</string>
-    <string name="spinner_entries">
-        <item>Category 1</item>
-        <item>Category 2</item>
-        <item>Category 3</item>
-    </string>
+    <string name="name">name:</string>
+    <string name="password">password:</string>
 </resources>
