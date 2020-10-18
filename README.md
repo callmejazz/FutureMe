@@ -1,5 +1,6 @@
 # FutureMe App
 
+![Alt text](https://github.com/molly0321/FutureMe/blob/master/app/src/main/res/drawable/Capture.png "Design of App")
 ## Author 
 for design part:
 - Jasmine Meade https://github.com/callmejazz
