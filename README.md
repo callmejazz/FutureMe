@@ -1,4 +1,4 @@
-- FutureMe App
+### FutureMe App
 
 ## What it does
 * introduces people from young ages up to skills and concepts needed for their desired careers through an interactive environment
