@@ -1,5 +1,15 @@
 # FutureMe App
 
+## Author 
+for design part:
+- Jasmine Meade https://github.com/callmejazz
+- Leah Mishket https://github.com/LoneStarGazing
+
+
+for coding part:
+- Molly Sun (msun8) https://github.com/molly0321
+- Madison McFadden (avmad22) https://github.com/maddxmad
+
 ## What it does
 * introduces people from young ages up to skills and concepts needed for their desired careers through an interactive environment
 
